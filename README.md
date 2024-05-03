@@ -1,7 +1,7 @@
-### Hi there I'm Arush 👋
+### Hey 🙋‍♂️ there I'm Arush 
 
 # 💫 About Me:
-🔭 I'm currently working on Myself<br>🐱‍🏍 I'm currently leaning Back-End<br>🤖 I'm looking to collaborate on AI<br>🏎 Ask me about Cars & Bikes<br> https://github.com/arushsingh03/arushsingh03/assets/100905582/1e1a7a62-57cb-49f5-926d-2143b7713856
+🔭 I'm currently working on Myself<br>🐱‍🏍 I'm currently leaning Back-End<br>🤖 I'm looking to collaborate on AI<br>🏎 Ask me about Cars & Bikes<br>
 
 
 ## 🌐 Socials:

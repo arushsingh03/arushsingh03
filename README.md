@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Arush</h1>
 <h3 align="center">A passionate about AI and Bikes</h3>
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/736x/f2/55/09/f25509207418957398d2dd36ec393b3a.jpg">
+<img align="right" alt="Coding" width="400" height="200" src="https://i.pinimg.com/736x/f2/55/09/f25509207418957398d2dd36ec393b3a.jpg">
 🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Back-End<br>💬 Ask me about Designing & Bikes<br>📫 How to reach me **arushsingh1803@gmail.com**<br>
 
 

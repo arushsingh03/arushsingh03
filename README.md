@@ -1,5 +1,5 @@
 ### Hey 🙋‍♂️ there I'm Arush 
-img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231"
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231">
 # 💫 About Me:
 🔭 I'm currently working on Myself<br>🐱‍🏍 I'm currently leaning Back-End<br>🤖 I'm looking to collaborate on AI<br>🏎 Ask me about Cars & Bikes<br>
 

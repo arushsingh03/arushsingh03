@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Arush</h1>
-<h3 align="center">A passionate about AI and Bikes</h3>
+<h3 align="center">I'm passionate about AI and Bikes</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Back-End<br>💬 Ask me about Designing & Bikes<br>📫 How to reach me **arushsingh1803@gmail.com**<br>⚡ Fun fact I think I'm tall

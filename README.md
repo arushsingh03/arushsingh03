@@ -1,8 +1,10 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Arush</h1>
 <h3 align="center">I'm passionate about AI and Bikes</h3>
 
+
 # 💫 About Me:
-🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Back-End<br>💬 Ask me about Designing & Bikes<br>📫 How to reach me **arushsingh1803@gmail.com**<br>⚡ Fun fact I think I'm tall
+<img align="right" alt="Coding" width="470" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+🔭 I’m currently working on Myself<br><br>👯 I’m looking to collaborate on AI<br><br>🌱 I’m currently learning Back-End<br><br>💬 Ask me about Designing & Bikes<br><br>📫 How to reach me **arushsingh1803@gmail.com**<br><br>⚡ Fun fact I think I'm tall
 
 
 ## 🌐 Socials:

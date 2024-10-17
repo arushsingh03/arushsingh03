@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="auto" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240919T083555Z&X-Amz-Expires=300&X-Amz-Signature=20097e5754c3da5db5fb337b89f940706b72efa7f66abea31d1d0e9441da476e&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=588181932">
+<img align="center" alt="banner" width="auto" src="https://i.imgur.com/Wz5AJRY.gif">
 
 <h1 align="center">Greetings, I'm Arush 👋 </h1>
 <h3 align="center">Passionate about AI, F1, MotoGP, and driven by the thrill of coding, riding, driving, and gaming.<br>
